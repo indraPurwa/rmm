@@ -1,0 +1,38 @@
+body {
+  background: black;
+}
+.login {
+  background: #09DB8A;
+  top: 150px;
+  border-radius: 20px;
+  padding-bottom: 5px;
+}
+.login img {
+  height:100px;
+  width: 100px;
+}
+.media-body {
+    top: 14px;
+    position: relative;
+    left: 60px;
+}
+.gambar {
+  top: 20px;
+  background: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+}
+.gmb-mkn {
+  margin-bottom: 0;
+}
+.form-group {
+    margin-bottom: 5px;
+}
+.thumbnail.gmb-mkn img {
+    height: 220px;
+}
+.col-md-12.nota {
+    position: relative;
+    margin-top: 20px;
+}

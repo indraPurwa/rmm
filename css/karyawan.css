@@ -1,0 +1,37 @@
+body {
+  background: #A9A9A9;
+}
+a.btn.btn-primary {
+    margin-top: 10px;
+}
+.main-frame {
+  background: white;
+}
+.row.header p {
+  margin-top: 10px;
+  text-align: center;
+  border: 1px solid #E1DCDC;
+  box-shadow: 0.5px 1px 3px;
+  background: chartreuse;
+  padding: 7px;
+}
+.header span {
+    font-weight: bold;
+    color: #337AB7;
+    font-size: 16px;
+}
+nav.navigasi.navbar.navbar-default {
+  border-bottom: 3px solid #050505;
+}
+.navbar-nav {
+  float: left;
+}
+button.btn.btn-primary {
+    top: 10px;
+    position: relative;
+}
+.row.footer {
+    background: black;
+    padding: 20px;
+    color: white;
+}

@@ -1,0 +1,125 @@
+body {
+  background: #A9A9A9;
+}
+.main-frame {
+  background-color: rgb(255, 255, 255);
+}
+.brand {
+  top: 20px;
+  position: relative;
+  color: #b30143;
+  font-family: "titilliumBold", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  text-transform: capitalize;
+}
+img.iklan-top {
+    height: 160px;
+    width: 100%;
+}
+a.btn.btn-default.pull-right {
+    top: 10px;
+    position: relative;
+    font-weight: bold;
+}
+button.btn.btn-default.pull-right {
+    position: relative;
+    top: 10px;
+    font-weight: bold;
+}
+.carousel .carousel-inner .item img {
+  height: 350px;
+  width: 100%;
+}
+.navigasi {
+  background: chartreuse;
+  border-bottom: 3px solid black;
+  font-weight: bold;
+}
+.content {
+  margin-top: 20px;
+}
+.right-side {
+  padding-right: 0;
+}
+.menu-order {
+  padding-left: 15px;
+  padding-right: 0px;
+}
+.menu-order .menu-item {
+  padding-left: 0px;
+  padding-right: 10px;
+}
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+  background: #7fff00;
+  height: 40px;
+  width: 200px;
+  border-radius: 0px 15px 0 0;
+}
+.title .title-text {
+  position: relative;
+  top: 5px;
+  font-size: 24px;
+  left: 10px;
+  color: #483333;
+  font-family: "titilliumBold", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+  text-transform: capitalize;
+}
+.title-right-side {
+    margin-top: 15px;
+}
+.komen {
+      margin-top: 15px;
+}
+.media .komen-img {
+  height: 80px;
+  width: 80px;
+}
+.komen-body {
+  background: white;
+  padding: 5px;
+  border: 1px solid black;
+  margin-top: 5px;
+}
+.sertifikat-img {
+  height: 140px;
+  width: 150px;
+}
+.row.footer {
+    background: black;
+    padding: 20px;
+    color: white;
+}
+.jumbotron.ucp-welcome {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #7fff00;
+  color: #333;
+  margin-bottom: 10px;
+}
+.carousel-caption {
+  background: rgba(60, 58, 58, 0.4);
+  padding-bottom: 0;
+  padding-top: 0;
+  border-radius: 15px 15px 0 0;
+  bottom: 15px;
+}
+.carousel-caption h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.carousel-caption a {
+    color: white;
+    text-decoration: none;
+}
+.carousel-caption a:hover, .carousel-caption a:focus {
+    color: #7fff00;
+}
+div.sub {
+    padding: 15px;
+    text-align: justify;
+    font-size: 12pt;
+}
+.col-md-4.left-side {
+  margin-bottom: 20px;
+}
